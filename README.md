@@ -1,4 +1,6 @@
+Why CentOS? because so far Impala needs RedHat/CentOS
 
+Vagrant version used : 1.2.2
 
 vagrant box add centos-6.4-64 http://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.4-x86_64-v20130309.box
 
